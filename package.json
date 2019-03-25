@@ -1,0 +1,21 @@
+{
+  "name": "p5--continuous-spline-curve",
+  "version": "1.0.0",
+  "main": "gulpfile.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Roy Vanegas",
+  "license": "ISC",
+  "devDependencies": {
+    "browser-sync": "^2.26.3",
+    "gulp": "^4.0.0"
+  },
+  "description": "An extension of the P5.js example on how to draw a continuous spline curve.",
+  "keywords": [
+    "p5.js",
+    "curve",
+    "spline",
+    "curveVertex"
+  ]
+}
